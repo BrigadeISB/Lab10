@@ -8,7 +8,7 @@ using System;
 [Config(typeof(BenchmarkConfig))]
 public class ArrayBenchmarks
 {
-    [Params(10, 100, 1000, 10000, 100000)]
+    [Params(5, 10, 25, 50, 75, 100)]
     public int N;
 
     [Params(ArrayType.Random, ArrayType.PartiallySorted, ArrayType.ManyDuplicates)]
