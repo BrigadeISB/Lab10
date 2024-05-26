@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArrayBenchmarks">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAQABAAAAg=</HashCode>
+      <FileName>ArrayBenchmarks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrayDataGenerator">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArrayDataGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benchmark.BenchmarkConfig">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BenchmarkConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benchmark.Program">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Benchmark.SortingAlgorithms">
+    <Position X="2.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAg=</HashCode>
+      <FileName>SortingAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ArrayType">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAIAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArrayType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
